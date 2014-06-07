@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="hadoop-auth-examples:war exploded">
+    <output-path>$PROJECT_DIR$/hadoop-common-project/hadoop-auth-examples/target/hadoop-project-2.4.0</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="hadoop-auth-examples/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="hadoop-auth-examples" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="hadoop-hdfs-httpfs:war exploded">
+    <output-path>$PROJECT_DIR$/hadoop-hdfs-project/hadoop-hdfs-httpfs/target/hadoop-project-2.4.0</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="hadoop-hdfs-httpfs/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="hadoop-hdfs-httpfs" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
